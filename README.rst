@@ -11,23 +11,23 @@
     :target: http://multipla.readthedocs.org/en/latest/
     :alt: Read the Docs
 
-.. image:: https://pypip.in/download/multipla/badge.svg?period=month
+.. image:: https://img.shields.io/pypi/dm/multipla.svg
     :target: https://pypi.python.org/pypi/multipla/
     :alt: Downloads
 
-.. image:: https://pypip.in/version/multipla/badge.svg?text=latest
+.. image:: https://img.shields.io/pypi/v/multipla.svg?label=latest
     :target: https://pypi.python.org/pypi/multipla/
     :alt: Latest Version
 
-.. image:: https://pypip.in/status/multipla/badge.svg
+.. image:: https://img.shields.io/pypi/status/multipla.svg
     :target: https://pypi.python.org/pypi/multipla/
     :alt: Development Status
 
-.. image:: https://pypip.in/py_versions/multipla/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/multipla.svg
     :target: https://pypi.python.org/pypi/multipla/
     :alt: Supported Python versions
 
-.. image:: https://pypip.in/implementation/multipla/badge.svg
+.. image:: https://img.shields.io/pypi/implementation/multipla.svg
     :target: https://pypi.python.org/pypi/multipla/
     :alt: Supported Python implementations
 
@@ -35,11 +35,11 @@
     :target: https://pypi.python.org/pypi/multipla/
     :alt: Egg Status
 
-.. image:: https://pypip.in/wheel/multipla/badge.svg
+.. image:: https://img.shields.io/pypi/wheel/multipla.svg
     :target: https://pypi.python.org/pypi/multipla/
     :alt: Wheel Status
 
-.. .. image:: https://pypip.in/license/multipla/badge.svg
+.. .. image:: https://img.shields.io/pypi/l/multipla.svg
 ..     :target: https://pypi.python.org/pypi/multipla/
 ..     :alt: License
 .. 
